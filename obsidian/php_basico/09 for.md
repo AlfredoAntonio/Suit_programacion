@@ -1,0 +1,2 @@
+el ciclo for  se le da un valor inicial después es evaluado para ir incrementando de uno en uno, en el primer for se manada a imprimir dentro de un arreglo los valores de calificaciones, en el segundo arreglo se manda a imprimir los valores de arreglo.
+![[Pasted image 20230827220429.png]]

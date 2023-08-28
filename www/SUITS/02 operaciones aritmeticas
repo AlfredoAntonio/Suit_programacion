@@ -1,0 +1,15 @@
+<?php 
+
+print(5+4); //suma
+echo"<br>";
+print(5-4); //resta
+echo"<br>";
+print(5*4); //multiplicacion
+echo"<br>";
+print(5/4); //division
+echo"<br>";
+print(10%2); //modulo
+echo"<br>";
+print(2**2); //potencia
+
+?>
